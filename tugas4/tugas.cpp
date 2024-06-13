@@ -58,8 +58,8 @@ int main() {
         std::cout << "1. Ketik\n";
         std::cout << "2. Undo\n";
         std::cout << "3. Redo\n";
-        std::cout << "4. Cek Undo Kosong\n";
-        std::cout << "5. Cek Redo Kosong\n";
+        std::cout << "4. Is Empty Undo\n";
+        std::cout << "5. Is Empty Redo\n";
         std::cout << "6. Keluar\n";
         std::cout << "Masukkan pilihan Anda: ";
         int pilihan;
